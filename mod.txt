@@ -1,0 +1,6 @@
+name: "schem"
+displayName: "my schemtics"
+author: "The Slaylord"
+description: "This mod adds "sch""
+version: "2.0 alpha b19"
+minGameVersion: 137
